@@ -1,0 +1,3 @@
+31-07-24:
+PreProd:Management Portal Bug list:
+1.MS Report-MS Report(Inactive)-After select valid tail and month, download button is not working in webtable.

@@ -1,0 +1,7 @@
+Bugs Found During Script Creation In Jet Edge Owner Portal:
+1.After click Request flight in Home Page, and click Back button page navigates to previous page.
+2.Reports-Charter Trip Expenses-Calendar tab is empty and after click tab calendar wont open.
+3.Reports-Fuel Uplift-After click Edit(View) button unwanted alert message is displayed
+4.In overall all modules, un wanted alert message is displayed
+5.Management Report -After click statement page gets crashed
+6.In overall modules, some calendar tabs are not properly working. Need to check the  overall calendar  tabs.
